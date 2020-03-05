@@ -21,10 +21,10 @@ css: ./assets/hotweb.css
 # Build settings
 markdown: kramdown
 # gems:
+gems:
+- jekyll
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock
 
 timezone: America/New_York
-google_analytics: UA-99357652-1
-
