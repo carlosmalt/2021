@@ -2,10 +2,15 @@ The P-RECS workshop focuses heavily on practical, actionable aspects
 of reproducibility in broad areas of computational science and data 
 exploration, with special emphasis on issues in which community 
 collaboration can be essential for adopting novel methodologies, 
-techniques and frameworks aimed at addressing some of the challenges we face today. The workshop brings together researchers and experts to 
+techniques and frameworks aimed at addressing some of the challenges 
+we face today. The workshop brings together researchers and experts to 
 share experiences and advance the state of the art in the reproducible 
 evaluation of computer systems, featuring contributed papers and 
 invited talks.
+
+> **_In order to maximize participation from the community, the 
+> workshop will be live streamed, and remote participation in the 
+> discussions will be possible._**
 
 ## Topics
 
