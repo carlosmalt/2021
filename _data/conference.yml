@@ -94,26 +94,26 @@ program_chair:
   homepage: http://www.lofstead.org/
 steering_committees: []
 technical_program_committees:
-- name: Daniel S. Katz
-  org: University of Illinois Urbana-Champaign
-- name: Victoria Stodden
-  org: University of Illinois at Urbana-Champaign
 - name: Philippe Bonnet
   org: IT University of Copenhagen
-- name: Alexandru Iosup
-  org: Vrije Universiteit Amsterdam and TU Delft, the Netherlands
-- name: Alexandru Uta
-  org: Vrije Universiteit Amsterdam
-- name: Gianluca Setti
-  org: ENDIF, University of Ferrara
-- name: Michela Taufer
-  org: University of Delaware
-- name: Neil Chue Hong
-  org: Software Sustainability Institute, EPCC, University of Edinburgh
-- name: Robert Ricci
-  org: University of Utah
-- name: Tanu Malik
-  org: DePaul University
 - name: Dmitry Duplyakin
   org: University of Utah
+- name: Neil Chue Hong
+  org: Software Sustainability Institute, EPCC, University of Edinburgh
+- name: Alexandru Iosup
+  org: Vrije Universiteit Amsterdam and TU Delft
+- name: Daniel S. Katz
+  org: University of Illinois Urbana-Champaign
+- name: Tanu Malik
+  org: DePaul University
+- name: Robert Ricci
+  org: University of Utah
+- name: Gianluca Setti
+  org: ENDIF, University of Ferrara
+- name: Victoria Stodden
+  org: University of Illinois at Urbana-Champaign
+- name: Michela Taufer
+  org: University of Delaware
+- name: Alexandru Uta
+  org: Leiden University
 webmaster: []
