@@ -15,12 +15,12 @@ location: Stockholm, Sweden, 2020
 date: June 23, 2020
 logo_path: ''
 slideshow:
-  - id: 0
-    image_path: ./assets/images/slideshow/img01.jpg
-    description: Stockholm
-    photographer_name: edward stojakovic
-    photographer_link: https://www.flickr.com/photos/akasped/
-    active: True
+- id: 0
+  image_path: ./assets/images/slideshow/img01.jpg
+  description: Stockholm
+  photographer_name: edward stojakovic
+  photographer_link: https://www.flickr.com/photos/akasped/
+  active: True
 #  - id: 1
 #    image_path: ./assets/images/slideshow/image1.jpg
 #    description: San Jose Museum of Art
@@ -47,51 +47,73 @@ slideshow:
 #    photographer_name: John Menard
 #    photographer_link: https://www.flickr.com/photos/jmenard48/
 navbar:
-  - id: 0
-    label: Home
-    path: /
-    visible: True
-  - id: 1
-    label: Organization
-    path: /organization.html
-    visible: True
-  - id: 2
-    label: Call for Papers
-    path: /cfp.html
-    visible: True
+- id: 0
+  label: Home
+  path: /
+  visible: True
+- id: 1
+  label: Organization
+  path: /organization.html
+  visible: True
+- id: 2
+  label: Call for Papers
+  path: /cfp.html
+  visible: True
 deadlines:
-  - date: 2020-4-10
-    timezone: 11PM PDT
-    text: Submission deadline
-    pass_due: False
-  - date: 2020-4-20
-    text: Notification of acceptance
-    pass_due: False
-  - date: 2020-5-6
-    text: Camera-ready copy due
-    pass_due: False
-  - date: 2020-6-23
-    text: Workshop
-    pass_due: False
+- date: 2020-4-10
+  timezone: 11PM PDT
+  text: Submission deadline
+  pass_due: False
+- date: 2020-4-20
+  text: Notification of acceptance
+  pass_due: False
+- date: 2020-5-6
+  text: Camera-ready copy due
+  pass_due: False
+- date: 2020-6-23
+  text: Workshop
+  pass_due: False
 news:
-  - date: 2020-03-01
-    text: Submission site online!
-  - date: 2020-02-14
-    text: Workshop accepted!
+- date: 2020-03-01
+  text: Submission site online!
+- date: 2020-02-14
+  text: Workshop accepted!
 sponsors: []
 social_media:
   facebook_link: https://www.facebook.com/precs_workshop/
   twitter_link: https://twitter.com/precs_workshop
 program_chair:
-  - name: Ivo Jimenez
-    org: UC Santa Cruz
-    homepage: http://linkedin.com/in/ivotron
-  - name: Carlos Maltzahn
-    org: UC Santa Cruz
-    homepage: https://users.soe.ucsc.edu/~carlosm
-  - name: Jay Lofstead
-    org: Sandia National Laboratories
-    homepage: http://www.lofstead.org/
+- name: Ivo Jimenez
+  org: UC Santa Cruz
+  homepage: http://linkedin.com/in/ivotron
+- name: Carlos Maltzahn
+  org: UC Santa Cruz
+  homepage: https://users.soe.ucsc.edu/~carlosm
+- name: Jay Lofstead
+  org: Sandia National Laboratories
+  homepage: http://www.lofstead.org/
 steering_committees: []
-technical_program_committees: []
+technical_program_committees:
+- name: Daniel S. Katz
+  org: University of Illinois Urbana-Champaign
+- name: Victoria Stodden
+  org: University of Illinois at Urbana-Champaign
+- name: Philippe Bonnet
+  org: IT University of Copenhagen
+- name: Alexandru Iosup
+  org: Vrije Universiteit Amsterdam and TU Delft, the Netherlands
+- name: Alexandru Uta
+  org: Vrije Universiteit Amsterdam
+- name: Gianluca Setti
+  org: ENDIF, University of Ferrara
+- name: Michela Taufer
+  org: University of Delaware
+- name: Neil Chue Hong
+  org: Software Sustainability Institute, EPCC, University of Edinburgh
+- name: Robert Ricci
+  org: University of Utah
+- name: Tanu Malik
+  org: DePaul University
+- name: Dmitry Duplyakin
+  org: University of Utah
 webmaster: []
