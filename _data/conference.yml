@@ -96,6 +96,8 @@ steering_committees: []
 technical_program_committees:
 - name: Philippe Bonnet
   org: IT University of Copenhagen
+- name: Bruce Childers
+  org: University of Pittsburgh
 - name: Dmitry Duplyakin
   org: University of Utah
 - name: Neil Chue Hong
@@ -104,6 +106,8 @@ technical_program_committees:
   org: Vrije Universiteit Amsterdam and TU Delft
 - name: Daniel S. Katz
   org: University of Illinois Urbana-Champaign
+- name: Arnaud Legrand
+  org: Centre national de la recherche scientifique, CNRS
 - name: Tanu Malik
   org: DePaul University
 - name: Robert Ricci
