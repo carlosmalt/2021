@@ -1,3 +1,11 @@
+> _**Due to the COVID-19 pandemic, the HPDC 2020 conference leadership 
+> has decided to cancel the physical meeting this year. As a 
+> consequence, the P-RECS'20 workshop will take place as a virtual 
+> event, with recorded presentations uploaded to YouTube and 
+> discussions on the [P-RECS Slack  workspace](http://p-recs.slack.com/).
+> Proceedings will be peer-reviewed and published as originally 
+> planned. The deadline has been extended to 04/20/2020 (AOE).**_
+
 The P-RECS workshop focuses heavily on practical, actionable aspects 
 of reproducibility in broad areas of computational science and data 
 exploration, with special emphasis on issues in which community 
@@ -7,10 +15,6 @@ we face today. The workshop brings together researchers and experts to
 share experiences and advance the state of the art in the reproducible 
 evaluation of computer systems, featuring contributed papers and 
 invited talks.
-
-> **_In order to maximize participation from the community, the 
-> workshop will be live streamed, and remote participation in the 
-> discussions will be possible._**
 
 ## Topics
 
