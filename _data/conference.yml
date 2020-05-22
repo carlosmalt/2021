@@ -38,10 +38,6 @@ navbar:
   label: Organization
   path: /organization
   visible: True
-- id: 4
-  label: Call for Papers
-  path: /cfp
-  visible: True
 deadlines:
 - date: 2020-4-20 (extended!)
   timezone: 11PM PDT
@@ -57,6 +53,8 @@ deadlines:
   text: Workshop
   pass_due: False
 news:
+- date: 2020-05-22
+  text: Workshop program posted!
 - date: 2020-04-30
   text: Keynote announced!
 - date: 2020-04-09
