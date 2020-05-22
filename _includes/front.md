@@ -1,18 +1,18 @@
-> _**Due to the COVID-19 pandemic, the HPDC 2020 conference leadership 
-> has decided to cancel the physical meeting this year. As a 
-> consequence, the P-RECS'20 workshop will take place as a virtual 
-> event, with recorded presentations uploaded to YouTube and 
-> discussions on the [P-RECS Slack  workspace][joinslack].
-> Proceedings will be peer-reviewed and published as originally 
-> planned. The deadline has been extended to 04/20/2020 (AOE).
->
-> As part of the activities associated to the workshop, we plan to 
-> organize a panel/discussion on the [ACM Reproducibility EIG][eig] 
-> effort lead by Victoria Stodden and Philippe Bonnet. We would like 
-> to find a time during the week of June 22-26 that works for 
-> everybody. We will reach out via the EIG mailing list and P-RECS 
-> slack workspace to share logistics about this meeting, and request 
-> your time preference.**_
+_**Due to the COVID-19 pandemic, the HPDC 2020 conference leadership 
+has decided to cancel the physical meeting this year. As a 
+consequence, the P-RECS'20 workshop will take place as a virtual 
+event, with recorded presentations uploaded to YouTube and discussions 
+on the [P-RECS Slack  workspace][joinslack]. Proceedings will be 
+peer-reviewed and published as originally planned. The deadline has 
+been extended to 04/20/2020 (AOE).**_
+
+_**As part of the activities associated to the workshop, we plan to 
+organize a panel/discussion on the [ACM Reproducibility EIG][eig] 
+effort lead by Victoria Stodden and Philippe Bonnet. We would like to 
+find a time during the week of June 22-26 that works for everybody. We 
+will reach out via the EIG mailing list and P-RECS slack workspace to 
+share logistics about this meeting, and request your time 
+preference.**_
 
 [joinslack]: https://join.slack.com/t/p-recs/shared_invite/zt-dlwmr45g-flUnLfAJUbjiwks05Lc6AQ
 [eig]: https://www.acm.org/special-interest-groups/eigs

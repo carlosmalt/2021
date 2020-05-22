@@ -11,8 +11,8 @@ description: >
   share experiences and advance the state of the art in the reproducible 
   evaluation of computer systems, featuring contributed papers and 
   invited talks.
-location: Stockholm, Sweden, 2020
-date: June 23, 2020
+location: (Online Event)
+date: June 24th, 2020
 logo_path: ''
 slideshow:
 - id: 0
@@ -21,43 +21,26 @@ slideshow:
   photographer_name: edward stojakovic
   photographer_link: https://www.flickr.com/photos/akasped/
   active: True
-#  - id: 1
-#    image_path: ./assets/images/slideshow/image1.jpg
-#    description: San Jose Museum of Art
-#    photographer_name: Bryan Nabong
-#    photographer_link: https://www.flickr.com/photos/bongarang/
-#  - id: 2
-#    image_path: ./assets/images/slideshow/image2.jpg
-#    description: San Jose State University
-#    photographer_name: David Sawyer
-#    photographer_link: https://www.flickr.com/photos/18702768@N04/
-#  - id: 3
-#    image_path: ./assets/images/slideshow/image3.jpg
-#    description: Cathedral Basilica of St. Joseph
-#    photographer_name: Patricia Montes Gregory
-#    photographer_link: https://www.flickr.com/photos/32159045@N02/
-#  - id: 4
-#    image_path: ./assets/images/slideshow/image4.jpg
-#    description: Winchester Mystery House
-#    photographer_name: Pomax
-#    photographer_link: https://www.flickr.com/photos/pomax/
-#  - id: 5
-#    image_path: ./assets/images/slideshow/image5.jpg
-#    description: Rose Garden Branch Library
-#    photographer_name: John Menard
-#    photographer_link: https://www.flickr.com/photos/jmenard48/
 navbar:
 - id: 0
   label: Home
   path: /
   visible: True
 - id: 1
-  label: Organization
-  path: /organization.html
+  label: Keynote
+  path: /keynote
   visible: True
 - id: 2
+  label: Program
+  path: /program
+  visible: True
+- id: 3
+  label: Organization
+  path: /organization
+  visible: True
+- id: 4
   label: Call for Papers
-  path: /cfp.html
+  path: /cfp
   visible: True
 deadlines:
 - date: 2020-4-20 (extended!)
@@ -70,10 +53,12 @@ deadlines:
 - date: 2020-5-6
   text: Camera-ready copy due
   pass_due: False
-- date: 2020-6-23
+- date: 2020-6-24
   text: Workshop
   pass_due: False
 news:
+- date: 2020-04-30
+  text: Keynote announced!
 - date: 2020-04-09
   text: Submission deadline extended!
 - date: 2020-03-01
