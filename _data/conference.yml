@@ -11,7 +11,7 @@ description: >
   share experiences and advance the state of the art in the reproducible 
   evaluation of computer systems, featuring contributed papers and 
   invited talks.
-location: (Online event, co-located with <a href="http://hpdc.org/2020/">HPDC'20</a>)
+location: (Online event, co-located with <a href="http://hpdc.org/2020/" target="_blank">HPDC'20</a>)
 date: June 24th, 2020
 logo_path: ''
 slideshow:
@@ -63,7 +63,10 @@ news:
   text: Submission site online!
 - date: 2020-02-14
   text: Workshop accepted!
-sponsors: []
+sponsors:
+- name: CROSS
+  logo_path: ./assets/images/sponsors/cross-logo.png
+  url: https://cross.ucsc.edu/
 social_media:
   facebook_link: https://www.facebook.com/precs_workshop/
   twitter_link: https://twitter.com/precs_workshop
