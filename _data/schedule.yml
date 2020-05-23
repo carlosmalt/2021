@@ -1,5 +1,5 @@
-- date: "2020-06-25"
-  dateReadable: "June 25th (times in PT)"
+- date: "2020-06-24"
+  dateReadable: "June 24th (times in PT)"
   timeslots:
   - startTime: "7:00"
     endTime: "7:10"
