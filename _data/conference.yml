@@ -90,8 +90,6 @@ technical_program_committees:
   org: University of Utah
 - name: Neil Chue Hong
   org: Software Sustainability Institute, EPCC, University of Edinburgh
-- name: Alexandru Iosup
-  org: Vrije Universiteit Amsterdam and TU Delft
 - name: Daniel S. Katz
   org: University of Illinois Urbana-Champaign
 - name: Arnaud Legrand
@@ -100,8 +98,6 @@ technical_program_committees:
   org: DePaul University
 - name: Robert Ricci
   org: University of Utah
-- name: Gianluca Setti
-  org: ENDIF, University of Ferrara
 - name: Victoria Stodden
   org: University of Illinois at Urbana-Champaign
 - name: Michela Taufer

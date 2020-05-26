@@ -38,7 +38,7 @@
     type: "presentation"
     events:
       - title: "Stimulating Reproducible Software Artifacts"
-        speakers: "Bruce Childers (University of Pittsburgh)"
+        speakers: "Bruce Childers, Daniel Mosse (University of Pittsburgh)"
       - title: "On the FAIR data principles for reproducible Artificial Intelligence"
         speakers: "David Johnson, Soraya Hossain, Phub Namgay (Uppsala University)"
 
