@@ -37,7 +37,7 @@
     title: "Invited Talks (25 mins. each)"
     type: "presentation"
     events:
-      - title: "TBD"
+      - title: "Stimulating Reproducible Software Artifacts"
         speakers: "Bruce Childers (University of Pittsburgh)"
       - title: "On the FAIR data principles for reproducible Artificial Intelligence"
         speakers: "David Johnson, Soraya Hossain, Phub Namgay (Uppsala University)"
