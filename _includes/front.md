@@ -1,3 +1,12 @@
+
+**Proceedings**: Proceedings have been uploaded to the [ACM Digital 
+Library][dl]. Every talk in the program links to its corresponding 
+entry in the digital library as well.
+
+[dl]: https://dl.acm.org/doi/proceedings/10.1145/3391800
+
+----------
+
 **Registration**: Please register using [this form][hpdcform] (HPDC 
 registration form). Zoom connection details will be sent to the list 
 of registered attendees. In addition to Zoom, we will use the #precs20 
