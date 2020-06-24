@@ -9,14 +9,21 @@
     endTime: "8:00"
     title: "Keynote"
     type: "presentation"
+    chair: Carlos Maltzahn
     events:
       - title: "Learning Networking by Reproducing Research Results"
         speakers: "Lisa Yan (Stanford University)"
 
   - startTime: "8:00"
-    endTime: "9:40"
+    endTime: "8:10"
+    title: "Break"
+    type: "service"
+
+  - startTime: "8:10"
+    endTime: "9:25"
     title: "Paper Presentations 1 (25 mins. each)"
     type: "presentation"
+    chair: Jay Lofstead
     events:
       - title: "Xanthus: Push-button Orchestration of Host Provenance Data Collection"
         speakers: "Xueyuan Han (Harvard University), James Mickens (Harvard University), Ashish Gehani (SRI International), Margo Seltzer (University of British Columbia), Thomas Pasquier (University of Bristol)"
@@ -24,28 +31,33 @@
         speakers: "Victoria Stodden (University of Illinois at Urbana-Champaign)"
       - title: "Advancing computational reproducibility in the Dataverse data repository platform"
         speakers: "Ana Trisovic, Philip Durbin, Tania Schlatter, Gustavo Durand, Sonia Barbosa, Danny Brooke, Mercè Crosas (Harvard University)"
-      - title: "MiDas: Containerizing Data-Intensive Applications with I/O Specialization"
-        speakers: "Chaitra Niddodi (University of Illinois at Urbana-Champaign), Ashish Gehani (SRI International), Tanu Malik (DePaul University), Jorge Navas (SRI International), Sibin Mohan (University of Illinois at Urbana-Champaign)"
 
-  - startTime: "9:40"
-    endTime: "9:50"
+  - startTime: "9:25"
+    endTime: "9:35"
     title: "Break"
     type: "service"
 
-  - startTime: "9:50"
-    endTime: "10:40"
-    title: "Invited Talks (25 mins. each)"
+  - startTime: "9:35"
+    endTime: "10:25"
+    title: "Paper Presentations 2 (25 mins. each)"
     type: "presentation"
+    chair: Ivo Jimenez
     events:
-      - title: "Stimulating Reproducible Software Artifacts"
+      - title: "MiDas: Containerizing Data-Intensive Applications with I/O Specialization"
+        speakers: "Chaitra Niddodi (University of Illinois at Urbana-Champaign), Ashish Gehani (SRI International), Tanu Malik (DePaul University), Jorge Navas (SRI International), Sibin Mohan (University of Illinois at Urbana-Champaign)"
+      - title: "Stimulating Reproducible Software Artifacts (Invited Paper)"
         speakers: "Luis Oliveira, David Wilkinson, Daniel Mossé, and Bruce R. Childers (University of Pittsburgh)"
-      - title: "On the FAIR data principles for reproducible Artificial Intelligence"
-        speakers: "David Johnson, Soraya Hossain, Phub Namgay (Uppsala University)"
 
-  - startTime: "10:40"
+  - startTime: "10:25"
+    endTime: "10:35"
+    title: "Break"
+    type: "service"
+
+  - startTime: "10:35"
     endTime: "11:50"
     title: "Open Discussion"
     type: "presentation"
+    chair: Victoria Stodden
     events:
       - title: "Topics (non-exhaustive list): ACM Reproducibility EIG, Reproducibility in Machine Learning, Infrastructure Support."
         speakers: "All Attendees"
@@ -53,4 +65,3 @@
   - startTime: "11:50"
     endTime: "12:00"
     title: "Closing remarks"
-
