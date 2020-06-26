@@ -28,7 +28,7 @@ slide_id: 4
                                             <h5>{{timeslot.speaker}}</h5>
                                             {% endif %}
                                             {% if timeslot.chair %}
-                                                <h6>Session chair:{{timeslot.chair}}</h6>
+                                                <h6>Session chair: {{timeslot.chair}}</h6>
                                             {% endif %}
                                     </th>
                                 {% endif %}
@@ -41,7 +41,7 @@ slide_id: 4
                                 <td width="20%">
                                 </td>
                                 <td>
-                                    <p><a href={{event.link}} target="_blank"><b>{{event.title}}</b></a></p>
+                                    <p><b>{{event.title}}</b> ({% if event.paper_url %}<a href={{event.paper_url}} target="_blank">paper</a>, {% endif %}<a href={{event.video_url}} target="_blank">video</a>)</p>
                                     <p><i>{{event.speakers}}</i></p>
                                 </td>
                             </tr>
