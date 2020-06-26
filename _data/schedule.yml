@@ -13,7 +13,7 @@
     events:
       - title: "Learning Networking by Reproducing Research Results"
         speakers: "Lisa Yan (Stanford University)"
-        paper_url: https://doi.org/10.1145/3391800.3398176
+        paper_url: https://p-recs.github.io/2020/keynote
         video_url: https://youtu.be/50PpVxcy5WM?t=174
 
   - startTime: "8:00"
