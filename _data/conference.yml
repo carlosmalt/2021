@@ -1,6 +1,6 @@
-full_title: 3rd International Workshop on Practical Reproducible Evaluation of Systems
+full_title: 4th International Workshop on Practical Reproducible Evaluation of Systems
 short_title: P-RECS'20
-email: ivotron@ucsc.edu
+email: gflofst@sandia.gov
 description: >
   The P-RECS workshop focuses heavily on practical, actionable aspects of 
   reproducibility in broad areas of computational science and data 
@@ -11,8 +11,8 @@ description: >
   share experiences and advance the state of the art in the reproducible 
   evaluation of computer systems, featuring contributed papers and 
   invited talks.
-location: (Online event, co-located with <a href="http://hpdc.org/2020/" target="_blank">HPDC'20</a>)
-date: June 24th, 2020
+location: (Online event, co-located with <a href="http://hpdc.org/2021/" target="_blank">HPDC'21</a>)
+date: June 21st, 2021
 logo_path: ''
 slideshow:
 - id: 0
@@ -39,31 +39,31 @@ navbar:
   path: /organization
   visible: True
 deadlines:
-- date: 2020-4-20 (extended!)
+- date: 2021-4-20 (extended!)
   timezone: 11PM PDT
   text: Submission deadline
   pass_due: False
-- date: 2020-5-1
+- date: 2021-5-1
   text: Notification of acceptance
   pass_due: False
-- date: 2020-5-6
+- date: 2021-5-6
   text: Camera-ready copy due
   pass_due: False
-- date: 2020-6-24
+- date: 2021-6-24
   text: Workshop
   pass_due: False
 news:
-- date: 2020-06-22
+- date: 2021-06-21
   text: Proceedings have been published by ACM!
-- date: 2020-05-22
+- date: 2021-05-22
   text: Workshop program posted!
-- date: 2020-04-30
+- date: 2021-04-30
   text: Keynote announced!
-- date: 2020-04-09
+- date: 2021-04-09
   text: Submission deadline extended!
-- date: 2020-03-01
+- date: 2021-03-01
   text: Submission site online!
-- date: 2020-02-14
+- date: 2021-02-15
   text: Workshop accepted!
 sponsors:
 - name: CROSS
