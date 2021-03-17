@@ -1,18 +1,16 @@
 
-**Proceedings**: Proceedings have been uploaded to the [ACM Digital 
+**Proceedings**: Proceedings will be uploaded to the [ACM Digital 
 Library][dl]. Every talk in the program links to its corresponding 
 entry in the digital library as well.
 
-[dl]: https://dl.acm.org/doi/proceedings/10.1145/3391800
+[dl]: https://dl.acm.org/doi/proceedings/
 
 ----------
 
-**Registration**: Please register using [this form][hpdcform] (HPDC 
-registration form). Zoom connection details will be sent to the list 
-of registered attendees. In addition to Zoom, we will use the #precs20 
+**Registration**: We will use the HPDC registration system and the
+virtual conference platform. In addition, we will use the #precs21 
 channel of the [P-RECS Slack workspace][joinslack].
 
-[hpdcform]: https://forms.gle/r2zpFWzz1Z2HnFAG8
 [joinslack]: https://join.slack.com/t/p-recs/shared_invite/zt-dlwmr45g-flUnLfAJUbjiwks05Lc6AQ
 
 ------------
