@@ -1,3 +1,18 @@
+**Submission**
+Submit (single-blind) via EasyChair. We look for two categories of submissions:
+
+Position papers. This category is for papers whose goal is to propose solutions (or scope the work that needs to be done) to address some of the issues outlined above. We hope that a research agenda comes out of this and that we can create a community that meets yearly to report on our status in addressing these problems.
+
+Experience papers. This category consists of papers reporting on the authors’ experience in automating one or more experimentation pipelines. The committee will look for submissions reporting on their experience: what worked? What aspects of experiment automation and validation are hard in your domain? What can be done to improve the tooling for your domain? As part of the submission, authors need to provide a URL to the automation service they use (e.g., TravisCI, GitLabCI, CircleCI, Jenkins, etc.) so reviewers can verify that there is one or more automated pipelines associated to the submission.
+
+Format
+Authors are invited to submit manuscripts in English not exceeding 5 pages of content. The 5-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit. Submissions must use the ACM Master Template (please use the sigconf format with default options).
+
+**Tools**
+These tools can be used used to automate your experiments (not an exhaustive list):  [CK](http://ctuning.org), [CWL](http://commonwl.org), 
+[Popper](https://github.com/systemslab/popper), 
+[ReproZip](http://reprozip.org), [Sciunit](http://sciunit.run), 
+[Sumatra](https://github.com/open-research/sumatra).
 
 **Proceedings**: Proceedings will be uploaded to the [ACM Digital 
 Library][dl]. Every talk in the program links to its corresponding 
