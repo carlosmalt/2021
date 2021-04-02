@@ -2,7 +2,9 @@ full_title: 4th International Workshop on Practical Reproducible Evaluation of S
 short_title: P-RECS'21
 email: gflofst@sandia.gov
 description: >
-  The P-RECS workshop focuses heavily on practical, actionable aspects of 
+  The P-RECS workshop is the primary forum for the [ACM Emerging Interest 
+  Group (EIG) for Reproducibility and Replicability](https://reproducibility.acm.org/)
+  and focuses heavily on practical, actionable aspects of 
   reproducibility in broad areas of computational science and data 
   exploration, with special emphasis on issues in which community 
   collaboration can be essential for adopting novel methodologies, 
