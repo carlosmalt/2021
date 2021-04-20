@@ -1,5 +1,5 @@
 **Submission**
-Submit (single-blind) via EasyChair. We look for two categories of submissions:
+Submit (single-blind) via EasyChair (https://easychair.org/conferences/?conf=precs21). We look for two categories of submissions:
 
 Position papers. This category is for papers whose goal is to propose solutions (or scope the work that needs to be done) to address some of the issues outlined above. We hope that a research agenda comes out of this and that we can create a community that meets yearly to report on our status in addressing these problems.
 
