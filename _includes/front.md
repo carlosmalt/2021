@@ -23,7 +23,10 @@ entry in the digital library as well.
 ----------
 
 **Registration**: We will use the HPDC registration system and the
-virtual conference platform. In addition, we will use the #precs21 
+virtual conference platform.
+Registration: One author of each accepted paper has to register for HPDC'21 with author registration. Registration is common for the conference and workshops. Please find registration information on the HPDC'21 website at http://www.hpdc.org/2021/ Please register using this link https://cvent.me/L4BkD2 
+
+In addition, we will use the #precs21 
 channel of the [P-RECS Slack workspace][joinslack].
 
 [joinslack]: https://join.slack.com/t/p-recs/shared_invite/zt-dlwmr45g-flUnLfAJUbjiwks05Lc6AQ
