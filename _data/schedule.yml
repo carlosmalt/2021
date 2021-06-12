@@ -1,82 +1,52 @@
 - date: "2020-06-24"
-  dateReadable: "June 24th (times in PT)"
+  dateReadable: "June 21st (times in PT)"
   timeslots:
-  - startTime: "7:00"
-    endTime: "7:10"
+  - startTime: "8:00"
+    endTime: "8:15"
     title: "Opening remarks"
 
-  - startTime: "7:10"
-    endTime: "8:00"
+  - startTime: "8:15"
+    endTime: "9:15"
     title: "Keynote"
-    type: "presentation"
-    chair: Carlos Maltzahn
-    events:
-      - title: "Learning Networking by Reproducing Research Results"
-        speakers: "Lisa Yan (Stanford University)"
-        paper_url: https://p-recs.github.io/2020/keynote
-        video_url: https://youtu.be/50PpVxcy5WM?t=174
-
-  - startTime: "8:00"
-    endTime: "8:10"
-    title: "Break"
-    type: "service"
-
-  - startTime: "8:10"
-    endTime: "9:25"
-    title: "Paper Presentations 1 (25 mins. each)"
     type: "presentation"
     chair: Jay Lofstead
     events:
-    - title: "Xanthus: Push-button Orchestration of Host Provenance Data Collection"
-      speakers: "Xueyuan Han (Harvard University), James Mickens (Harvard University), Ashish Gehani (SRI International), Margo Seltzer (University of British Columbia), Thomas Pasquier (University of Bristol)"
-      paper_url: https://doi.org/10.1145/3391800.3398175
-      video_url: https://youtu.be/50PpVxcy5WM?t=4006
+      - title: "Artifact Description / Artifact Evaluation: A Reproducibility Bane or a Boon"
+        speakers: "Tanu Malik (DePaul University)"
+        paper_url: https://p-recs.github.io/2021/keynote
 
-    - title: "Beyond Open Data: A Model for Linking Digital Artifacts to Enable Reproducibility of Scientific Claims"
-      speakers: "Victoria Stodden (University of Illinois at Urbana-Champaign)"
-      paper_url: https://doi.org/10.1145/3391800.3398172
-      video_url: https://youtu.be/50PpVxcy5WM?t=5583
-
-    - title: "Advancing computational reproducibility in the Dataverse data repository platform"
-      speakers: "Ana Trisovic, Philip Durbin, Tania Schlatter, Gustavo Durand, Sonia Barbosa, Danny Brooke, Mercè Crosas (Harvard University)"
-      paper_url: https://doi.org/10.1145/3391800.3398173
-      video_url: https://youtu.be/50PpVxcy5WM?t=7606
-
-  - startTime: "9:25"
-    endTime: "9:35"
+  - startTime: "9:15"
+    endTime: "9:20"
     title: "Break"
     type: "service"
 
-  - startTime: "9:35"
-    endTime: "10:25"
-    title: "Paper Presentations 2 (25 mins. each)"
+  - startTime: "9:20"
+    endTime: "10:20"
+    title: "Paper Presentations"
     type: "presentation"
     chair: Ivo Jimenez
     events:
-    - title: "MiDas: Containerizing Data-Intensive Applications with I/O Specialization"
-      speakers: "Chaitra Niddodi (University of Illinois at Urbana-Champaign), Ashish Gehani (SRI International), Tanu Malik (DePaul University), Jorge Navas (SRI International), Sibin Mohan (University of Illinois at Urbana-Champaign)"
-      paper_url: https://doi.org/10.1145/3391800.3398174
-      video_url: https://youtu.be/50PpVxcy5WM?t=9362
+    - title: "Experiences with Reproducibility: Case Studies from Scientific Workflows"
+      speakers: "Devarshi Ghoshal, Drew Paine, Gilberto Pastorello, Abdelrahman Elbashandy, Dan Gunter, Oluwamayowa Amusat, Lavanya Ramakrishnan (Lawrence Berkeley National Lab)"
+      paper_url: https://doi.org/10.1145/3456287.3465478
 
-    - title: "Stimulating Reproducible Software Artifacts (Invited Paper)"
-      speakers: "Luis Oliveira, David Wilkinson, Daniel Mossé, and Bruce R. Childers (University of Pittsburgh)"
-      paper_url: https://doi.org/10.1145/3391800.3398177
-      video_url: https://youtu.be/50PpVxcy5WM?t=10203
+    - title: "HELIPORT: A Portable Platform for FAIR {Workflow | Metadata | Scientific Project Lifecycle} Management and Everything"
+      speakers: "Oliver Knodel, Martin Voigt, Robert Ufer, David Pape, Mani Lokamani, Stefan E. Müller, Thomas Gruber and Guido Juckeland (Helmholtz-Zentrum Dresden-Rossendorf)"
+      paper_url: https://doi.org/10.1145/3456287.3465477
 
-  - startTime: "10:25"
-    endTime: "10:35"
+  - startTime: "10:20"
+    endTime: "10:25"
     title: "Break"
     type: "service"
 
-  - startTime: "10:35"
-    endTime: "11:50"
+  - startTime: "10:30"
+    endTime: "12:30"
     title: "Open Discussion"
     type: "presentation"
-    chair: Victoria Stodden
+    chair: Carlos Maltzahn
     events:
     - title: "Topics (non-exhaustive list): ACM Reproducibility EIG, Reproducibility in Machine Learning, Infrastructure Support."
-      video_url: https://youtu.be/50PpVxcy5WM?t=12959
 
-  - startTime: "11:50"
-    endTime: "12:00"
+  - startTime: "12:30"
+    endTime: "12:40"
     title: "Closing remarks"
