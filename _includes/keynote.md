@@ -1,15 +1,13 @@
-To Be Determined
-
-<!--
 <p align="center">
-   <img class="mx-auto" src="assets/images/lisayan.jpg" />
+   <img class="mx-auto" src="assets/images/tanu.jpeg" />
 </p>
 
-**Speaker**: Lisa Yan
+**Speaker**: Tanu Malik
 
-**Title**: Learning Networking by Reproducing Research Results ([slides](http://stanford.edu/~yanlisa/publications/precs20_yanlisa-slides.pdf), [paper](https://doi.org/10.1145/3391800.3398176), [webpage](http://cs244.stanford.edu/reproducibility))
+**Title**: Artifact Description/Artifact Evaluation: A Reproducibility Bane or a Boon
 
-**Abstract**: Reproducing research is key to continued scientific progress, especially in fields that are engineering- and application-focused. In the past eight years, the graduate computer networking course at Stanford University has asked students to reproduce research results for a different reason: to teach students engineering rigor and critical thinking—qualities that are essential for careers in networking research and industry. In this talk, I share our experience with teaching over 500 students the art of reproducing results from over 50 networking papers. Over the past eight years, we have observed through many anecdotes that the process of reproducing research can both teach much-needed skills and provide students with a means to contribute to the networking community. I will close by discussing how to teach the importance of reproducibility through project-based learning and how to implement this project in different computing fields.
+**Abstract**: Several systems research conferences now incorporate an artifact description and artifact evaluation (AD/AE) process as part of the paper submission. Authors of accepted papers optionally submit a plethora of artifacts: documentation, links, tools, code, data, and scripts for independent validation of the claims in their paper. An artifact evaluation committee (AEC) evaluates the artifacts and stamps papers with accepted artifacts, which then receive publisher badges. Does this AD/AE process serve authors and reviewers? Is it scalable for large conferences such as SCxy? Using the last three SCxy Reproducibility Initiatives as the basis, this talk will analyze the benefits and the miseries of the AD/AE process.
 
-**Bio**: Lisa Yan is a Lecturer of Computer Science at Stanford University where she teaches probability and computer systems. She completed her PhD at Stanford, where she studied and implemented tools for understanding students in computer science classrooms. Her research interests are in facilitating teachers' understanding of how their students complete programming assignments, through analyzing both in-progress snapshots and final submissions of student work. Lisa's teaching interests are in building student confidence in sophomore-level CS courses, as well as training and inspiring the next generation of computer science instructors.
--->
+We will present a data-driven approach, using survey results to analyze technical and human challenges in conducting the AD/AE process. Our method will distinguish studies that benefit from AD, i.e., increased transparency versus areas that benefit from AE. The AD/AE research objects [1] present an interesting set of data management and systems challenges [2,3]. We will look under the hood of the research objects, describe prominent characteristics, and how cloud infrastructures, documented workflows, and reproducible containers [4] ease some of the AD/AE process hand-shakes. Finally, we will present a vision for the resulting curated, reusable research objects---how such research objects are a treasure in themselves for advancing computational reproducibility and making reproducible evaluation practical in the coming years.
+
+**Bio**: Tanu Malik is an Associate Professor in the School of Computing at DePaul University, Chicago. Her research work concerns developing formal methods, tools, systems and cyber- infrastructure for data provenance and computational reproducibility. She leads and develops the Sciunit project [4], which is improving conduct of reproducible science in computational and data science disciplines. Tanu received the 2019 NSF CAREER award for her work on computational reproducibility. She was also the 2019 Better Scientific Software (BSSw) fellow. Tanu received her PhD in Computer Science from the Johns Hopkins University and was previously a Fellow at The University of Chicago. More about her at https://facsrv.cs.depaul.edu/~tmalik1/.
