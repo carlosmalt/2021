@@ -51,22 +51,10 @@ deadlines:
 - date: 2021-5-6
   text: Camera-ready copy due
   pass_due: False
-- date: 2021-6-24
+- date: 2021-6-21
   text: Workshop
   pass_due: False
-news:
-- date: 2021-06-21
-  text: Proceedings have been published by ACM!
-- date: 2021-05-22
-  text: Workshop program posted!
-- date: 2021-04-30
-  text: Keynote announced!
-- date: 2021-04-09
-  text: Submission deadline extended!
-- date: 2021-03-01
-  text: Submission site online!
-- date: 2021-02-15
-  text: Workshop accepted!
+news: []
 sponsors:
 - name: CROSS
   logo_path: ./assets/images/sponsors/cross-logo.png
@@ -86,26 +74,8 @@ program_chair:
   homepage: http://www.lofstead.org/
 steering_committees: []
 technical_program_committees:
-- name: Philippe Bonnet
-  org: IT University of Copenhagen
-- name: Bruce Childers
-  org: University of Pittsburgh
-- name: Dmitry Duplyakin
-  org: University of Utah
-- name: Neil Chue Hong
-  org: Software Sustainability Institute, EPCC, University of Edinburgh
-- name: Daniel S. Katz
-  org: University of Illinois Urbana-Champaign
-- name: Arnaud Legrand
-  org: Centre national de la recherche scientifique, CNRS
-- name: Tanu Malik
-  org: DePaul University
-- name: Robert Ricci
-  org: University of Utah
-- name: Victoria Stodden
-  org: University of Illinois at Urbana-Champaign
-- name: Michela Taufer
-  org: University of Delaware
 - name: Alexandru Uta
   org: Leiden University
+- name: Lukas Rupprecht
+  org: IBM Almaden
 webmaster: []
