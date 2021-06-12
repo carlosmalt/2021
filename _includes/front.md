@@ -1,14 +1,10 @@
-**Presentations**
+**Registration and Presentations**
 
-We will use the HPDC registration system and the virtual conference platform ([link](http://hpdc.org/2021/)).
+We will use the [HPDC registration system](https://cvent.me/L4BkD2) and the [Whova virtual conference platform](https://whova.com/portal/webapp/hpdcf_202106/Agenda/1696493/).
 
-**Registration**
+One author of each accepted paper has to register for HPDC'21 with "author registration". Registration is common for the conference and workshops. Please find registration information on the [HPDC'21 website](http://www.hpdc.org/2021/) or above links.
 
-One author of each accepted paper has to register for HPDC'21 with author registration. Registration is common for the conference and workshops. Please find registration information on the HPDC'21 website at http://www.hpdc.org/2021/ Please register using this link https://cvent.me/L4BkD2
-
-In addition, we will use the #precs21 channel of the [P-RECS Slack workspace][joinslack].
-
-[joinslack]: https://join.slack.com/t/p-recs/shared_invite/zt-dlwmr45g-flUnLfAJUbjiwks05Lc6AQ
+The video conference platform will be Zoom, and anyone can join by clicking [this link](https://ucsc.zoom.us/j/92751446824?pwd=OE5UdTJ2YXlsek9HaEJ1RHRJemUrUT09).
 
 ------------
 
